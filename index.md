@@ -82,6 +82,7 @@ displayed if the 'eventbrite' field in the header is not set.
 </iframe>
 {% endif %}
 
+<h4 style="background-color: yellow;">This website was created as part of a training session on creating workshop websites. It is a demonstration site only, and the workshop title and content do not match and do not correspond to an actual event.</h4>
 
 <h2 id="general">General Information</h2>
 
